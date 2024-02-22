@@ -7,6 +7,4 @@ import CommunityIcon from './icons/IconCommunity.vue'
 import SupportIcon from './icons/IconSupport.vue'
 </script>
 
-<template>
-  <p>hola desde welcome</p>
-</template>
+
